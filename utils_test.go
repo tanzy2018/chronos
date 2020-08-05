@@ -33,7 +33,7 @@ func TestToString(t *testing.T) {
 		data     []byte
 	}{
 		{"accii", "012abc", []byte("012abc")},
-		{"中文", "中文ab", []byte("中文abc")},
+		{"中文", "中文abc", []byte("中文abc")},
 
 		{"日本語", "こんにちは", []byte("こんにちは")},
 	}
