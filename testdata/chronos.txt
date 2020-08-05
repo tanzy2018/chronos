@@ -1,0 +1,5 @@
+{"consume":0,"from":"chronos-init-23SM","to":"chronos-init-23SM","unit":"ns"}
+{"consume":353,"from":"key0","to":"key1","unit":"ns"}
+{"consume":587,"from":"key1","to":"key3","unit":"ns"}
+{"consume":675,"from":"key0","to":"key2","unit":"ns"}
+{"consume":769,"from":"chronos-init-23SM","to":"key0","unit":"ns"}
